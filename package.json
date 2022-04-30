@@ -1,8 +1,8 @@
 {
-  "name": "youtube-tailwind-css-traversy-media",
+  "name": "tailwind-css-example-page-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/Shan-V/youtube-tailwind-css-traversy-media",
+  "homepage": "http://Shan-V.github.io/tailwind-css-example-page-1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
