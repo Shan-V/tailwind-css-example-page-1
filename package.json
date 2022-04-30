@@ -2,7 +2,7 @@
   "name": "youtube-tailwind-css-traversy-media",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Shan-V/youtube-tailwind-css-traversy-media",
+  "homepage": "http://github.com/Shan-V/youtube-tailwind-css-traversy-media",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
