@@ -5,10 +5,11 @@ import Hero from './components/Hero';
 import NavBar from './components/NavBar';
 import Testimonial from './components/Testimonial';
 import Footer from './components/Footer';
+import { bgMain } from './assets/img';
 
 function App() {
   return (
-    <div>
+    <div style={{ backgroundImage: `url(${bgMain})` }} className='bg-image'>
       <NavBar />
       <div className='container mx-auto md:px-6 lg:px-12'>
         <Hero />
