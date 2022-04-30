@@ -1,6 +1,11 @@
+import { bgSub } from '../assets/img';
 function CTA() {
   return (
-    <section id='cta' className='bg-brightRed'>
+    <section
+      id='cta'
+      className='bg-brightRed bg-no-repeat'
+      style={{ backgroundImage: `url(${bgSub})` }}
+    >
       <div className='grid md:grid-cols-2 px-6 py-24 mx-auto text-center gap-6'>
         <div className='flex justify-center items-center'>
           <h2 className='text-5xl font-bold leading-tight text-white md:text-left md:max-w-md'>

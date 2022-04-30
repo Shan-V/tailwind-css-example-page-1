@@ -45,7 +45,7 @@ function Footer() {
               Go
             </button>
           </form>
-          <div class='hidden text-white md:block'>
+          <div className='hidden text-white md:block'>
             Copyright &copy; 2022, All Rights Reserved
           </div>
         </div>

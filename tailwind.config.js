@@ -3,6 +3,9 @@ module.exports = {
   theme: {
     screens: { sm: '480px', md: '768px', lg: '976px', xl: '1440px' },
     extend: {
+      backgroundImage: (theme) => ({
+        'main-bg': "url('/img/bg-tablet-pattern.svg')",
+      }),
       colors: {
         brightRed: 'hsl(12, 88%, 59%)',
         brightRedLight: 'hsl(12, 88%, 69%)',
